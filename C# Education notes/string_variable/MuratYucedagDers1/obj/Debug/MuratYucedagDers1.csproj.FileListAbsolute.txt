@@ -1,0 +1,7 @@
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedagDers1\MuratYucedagDers1\bin\Debug\MuratYucedagDers1.exe.config
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedagDers1\MuratYucedagDers1\bin\Debug\MuratYucedagDers1.exe
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedagDers1\MuratYucedagDers1\bin\Debug\MuratYucedagDers1.pdb
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedagDers1\MuratYucedagDers1\obj\Debug\MuratYucedagDers1.csproj.AssemblyReference.cache
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedagDers1\MuratYucedagDers1\obj\Debug\MuratYucedagDers1.csproj.CoreCompileInputs.cache
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedagDers1\MuratYucedagDers1\obj\Debug\MuratYucedagDers1.exe
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedagDers1\MuratYucedagDers1\obj\Debug\MuratYucedagDers1.pdb

@@ -1,0 +1,7 @@
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedag_if_else_2\MuratYucedag_if_else_2\obj\Debug\MuratYucedag_if_else_2.csproj.AssemblyReference.cache
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedag_if_else_2\MuratYucedag_if_else_2\obj\Debug\MuratYucedag_if_else_2.csproj.CoreCompileInputs.cache
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedag_if_else_2\MuratYucedag_if_else_2\bin\Debug\MuratYucedag_if_else_2.exe.config
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedag_if_else_2\MuratYucedag_if_else_2\bin\Debug\MuratYucedag_if_else_2.exe
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedag_if_else_2\MuratYucedag_if_else_2\bin\Debug\MuratYucedag_if_else_2.pdb
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedag_if_else_2\MuratYucedag_if_else_2\obj\Debug\MuratYucedag_if_else_2.exe
+C:\Users\salpe\OneDrive\Masaüstü\Udemy C# form\MuratYucedag_if_else_2\MuratYucedag_if_else_2\obj\Debug\MuratYucedag_if_else_2.pdb
