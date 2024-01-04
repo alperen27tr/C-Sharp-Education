@@ -1,0 +1,7 @@
+C:\Users\salpe\OneDrive\Masaüstü\OOP_Homework\HastaneOtomasyon1\HastaneOtomasyon1\obj\Debug\HastaneOtomasyon1.csproj.AssemblyReference.cache
+C:\Users\salpe\OneDrive\Masaüstü\OOP_Homework\HastaneOtomasyon1\HastaneOtomasyon1\obj\Debug\HastaneOtomasyon1.csproj.CoreCompileInputs.cache
+C:\Users\salpe\OneDrive\Masaüstü\OOP_Homework\HastaneOtomasyon1\HastaneOtomasyon1\bin\Debug\HastaneOtomasyon1.exe.config
+C:\Users\salpe\OneDrive\Masaüstü\OOP_Homework\HastaneOtomasyon1\HastaneOtomasyon1\bin\Debug\HastaneOtomasyon1.exe
+C:\Users\salpe\OneDrive\Masaüstü\OOP_Homework\HastaneOtomasyon1\HastaneOtomasyon1\bin\Debug\HastaneOtomasyon1.pdb
+C:\Users\salpe\OneDrive\Masaüstü\OOP_Homework\HastaneOtomasyon1\HastaneOtomasyon1\obj\Debug\HastaneOtomasyon1.exe
+C:\Users\salpe\OneDrive\Masaüstü\OOP_Homework\HastaneOtomasyon1\HastaneOtomasyon1\obj\Debug\HastaneOtomasyon1.pdb
